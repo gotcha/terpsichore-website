@@ -1,0 +1,45 @@
+baseURL = "https://your-github-username.github.io/terpsichore-website/"
+languageCode = "fr"
+title = "Ensemble Vocal Terpsichore"
+theme = "papermod"
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params]
+  homeInfoParams = {title = "Ensemble Vocal Terpsichore", content = "Un ensemble de voix mixtes dirigé par Xavier Haag"}
+  defaultTheme = "light"
+  
+  [[params.socialIcons]]
+  name = "email"
+  url = "mailto:contact@terpsichore.info"
+
+[menu]
+  [[menu.main]]
+  name = "Accueil"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  name = "Qui sommes-nous ?"
+  url = "/qui-sommes-nous/"
+  weight = 2
+
+  [[menu.main]]
+  name = "Le choeur"
+  url = "/le-choeur/"
+  weight = 3
+
+  [[menu.main]]
+  name = "Le chef"
+  url = "/le-chef/"
+  weight = 4
+
+  [[menu.main]]
+  name = "Nous rejoindre"
+  url = "/nous-rejoindre/"
+  weight = 5

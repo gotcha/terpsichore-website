@@ -1,0 +1,153 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║               TERPSICHORE WEBSITE - DOCUMENTATION FILES                   ║
+║                        (Start Reading Here)                               ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+
+📖 READ IN THIS ORDER:
+═════════════════════════════════════════════════════════════════════════════
+
+1️⃣ START_HERE.md (⭐ BEGIN HERE - 5 MINUTES)
+   ├─ What you have
+   ├─ 3-step deployment guide
+   ├─ Quick troubleshooting
+   └─ Where to go next
+
+   👉 This is your main entry point. Read this first!
+
+
+2️⃣ INDEX.md (5 MINUTES)
+   ├─ Overview of all files
+   ├─ Quick command reference
+   ├─ Common tasks lookup
+   └─ Learning resources
+
+   📖 Reference guide for finding things
+
+
+3️⃣ DEPLOYMENT.md (10 MINUTES)
+   ├─ Detailed GitHub setup
+   ├─ Step-by-step instructions
+   ├─ Custom domain setup
+   └─ Troubleshooting guide
+
+   🚀 For deploying to GitHub Pages
+
+
+4️⃣ CONTENT_GUIDE.md (15 MINUTES)
+   ├─ Description of each page
+   ├─ How to edit markdown
+   ├─ Common edits guide
+   └─ Formatting tips
+
+   ✏️ When you need to update content
+
+
+5️⃣ QUICKSTART.md (10 MINUTES)
+   ├─ Quick reference commands
+   ├─ Project structure
+   ├─ Customization examples
+   └─ Feature overview
+
+   ⚡ Fast lookup when you need commands
+
+
+📚 ADDITIONAL REFERENCE:
+
+   README.md (20 MINUTES)
+   ├─ Complete project documentation
+   ├─ Technology stack details
+   ├─ Full feature list
+   └─ Advanced setup
+
+   For complete technical documentation
+
+
+   PROJECT_SUMMARY.txt (10 MINUTES)
+   ├─ Technical summary
+   ├─ Build verification
+   ├─ Deployment checklist
+   └─ Support resources
+
+   Technical details and checklist
+
+
+═════════════════════════════════════════════════════════════════════════════
+
+
+🚀 QUICK START (3 MINUTES):
+
+1. Read: START_HERE.md (just the first 3 steps)
+2. Create GitHub repo
+3. Push your code
+4. Enable GitHub Pages
+5. Done! Your site is live!
+
+
+═════════════════════════════════════════════════════════════════════════════
+
+
+❓ FINDING WHAT YOU NEED:
+
+Need to...                          Read this...
+─────────────────────────────────────────────────────────
+Deploy to GitHub Pages              → DEPLOYMENT.md
+Update concert dates                → CONTENT_GUIDE.md
+Change site title                   → QUICKSTART.md
+Add images                          → CONTENT_GUIDE.md
+Edit a page                         → CONTENT_GUIDE.md
+Find a command example              → QUICKSTART.md or INDEX.md
+Understand the project              → README.md
+Troubleshoot a problem              → DEPLOYMENT.md
+See all pages described             → CONTENT_GUIDE.md
+Find learning resources             → INDEX.md
+
+
+═════════════════════════════════════════════════════════════════════════════
+
+
+📁 CONTENT FILES (French pages):
+
+In the content/ folder:
+
+_index.md              → Home page (Accueil)
+qui-sommes-nous.md     → About Us (Qui sommes-nous ?)
+le-choeur.md           → The Choir (Le choeur)
+le-chef.md             → The Conductor (Le chef)
+nous-rejoindre.md      → Join Us (Nous rejoindre)
+
+Edit these files to change your website content!
+
+
+═════════════════════════════════════════════════════════════════════════════
+
+
+⚙️ CONFIGURATION FILE:
+
+hugo.toml              → Site configuration
+                         • Site title
+                         • Menu items
+                         • Theme settings
+                         • Base URL
+
+Edit this to customize your site!
+
+
+═════════════════════════════════════════════════════════════════════════════
+
+
+✅ YOUR NEXT STEPS:
+
+1. Open: START_HERE.md
+2. Follow the 3-step deployment guide
+3. Your site will be live in 2-5 minutes!
+
+
+═════════════════════════════════════════════════════════════════════════════
+
+All files are in: /Users/gotcha/co/terpsichore-website/
+
+Good luck! 🎉
+
